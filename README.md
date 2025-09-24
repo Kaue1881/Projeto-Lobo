@@ -17,7 +17,12 @@ Este projeto também inclui **UI/UX refinado**, garantindo uma experiência agra
 O design é **totalmente responsivo**, adaptando-se a:  
 - Desktop 🖥️  
 - Tablets 📱  
-- Smartphones 📲  
+- Smartphones 📲
+
+---
+
+- ## 🗺️ Acesse o Projeto em:
+  https://kaue1881.github.io/Projeto-Lobo/
 
 ---
 
