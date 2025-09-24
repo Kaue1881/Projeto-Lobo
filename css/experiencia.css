@@ -67,20 +67,16 @@
   color: #525252;
 }
 
-.empresa-habilidades{
-  display: flex;
-  flex-flow: row wrap;
-  align-items: start;
-  gap: 5px;
-}
-
 .empresa li{
+  display: inline-block;
   font-size: 0.875rem;
   line-height: 1.4;
   background-color: #eeeeee;
-  padding: 5px 20px;
+  padding: 2px 10px;
   border-radius: 4px;
   transition: 0.1s;
+  width: max-content;
+  margin: 6px 3px;
 }
 
 .empresa li:hover{
