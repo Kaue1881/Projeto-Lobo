@@ -23,11 +23,3 @@ O design é **totalmente responsivo**, adaptando-se a:
 
 - ## 🗺️ Acesse o Projeto em:
   https://kaue1881.github.io/Projeto-Lobo/
-
----
-
-## 📦 Como rodar o projeto
-
-Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/lobo.git
